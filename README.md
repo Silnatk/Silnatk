@@ -25,16 +25,14 @@ I'm silna tk, a web developer who loves to build beautiful, responsive, and user
 - HTML/CSS
 
 - JavaScript
+-python &django
 
-- React
 
-- Node.js
 
-- Express.js
 
-- MongoDB
 
-- Git
+
+
 
 ## Projects
 
