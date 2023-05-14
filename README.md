@@ -52,7 +52,7 @@ Here are some of the projects that I've worked on:
 
 ## Education
 
-- Calicut University engineering college (link) - btech 3rd year student 
+- Calicut University engineering college (www.CUIET.com) - btech 3rd year student 
 
 ## Contact me
 
@@ -60,5 +60,4 @@ Here are some of the projects that I've worked on:
 
 - LinkedIn: [Your LinkedIn profile](link)
 
-- Twitter: [@YourTwitterHandle](link)
 - instagram:silnatk
